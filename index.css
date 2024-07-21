@@ -53,4 +53,27 @@
     .text-container,button{
         font-size:2px;
     }
+
+    .row .menu-card{
+        padding-bottom:2rem;
+    }
+
+    .menu-card h5{
+        text-align: center;
+    }
+
+    .about-image{
+        display: flex;
+        flex-direction: column;
+        align-items: center;   
+        
+    }
+
+    .contact{
+        margin-top: -30px;
+    }
+
+    .list-unstyled{
+        margin-left:106px;
+    }
 }
